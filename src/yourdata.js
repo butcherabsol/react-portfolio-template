@@ -28,7 +28,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I consider myself to be creative, hard-working, and inventive individual. Always looking for new opportunities to improve myself and those around him. I have expertise in innovative design and deep understanding of the financial aspects of the business, which will be a massive help in facilitating this project and making it more available to the target audience.",
+    "I consider myself to be creative, hard-working, and inventive individual. Always looking for new opportunities to improve myself and those around. I have expertise in innovative design and deep understanding of the financial aspects of the business, and a love for videomaking.",
 
   //Contact Email
   contactEmail: "fleks.jacek@gmail.com",
@@ -38,74 +38,40 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Ergotype - Semifinals", //Project Title - Add Your Project Title Here
+      title: "Ergotype - Semifinals Video",
       para:
-        "2022 NYCU Entreprenurship Competition semifinals application", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "2022 NYCU Entreprenurship Competition semifinals application", 
       imageSrc:
         "https://imgur.com/pnCmSsM",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://youtu.be/8GBHzhhvxj4",
     },
     {
-      title: "Ergotype", //Project Title - Add Your Project Title Here
+      title: "Ergotype - Promotional Video",
       para:
-        "2022 NYCU Entreprenurship Competition application." // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "2022 NYCU Entreprenurship Competition application."
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://imgur.com/vErV543",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://youtu.be/0RK0T9j6OIc",
+    },
+  {
+      title: "Ergotype - Company proposal",
+      para:
+        "Our team comprises Mike Glasek Business Lead of our project and student at GMBA, Ivan Kakhaev our Tech Lead, Ph.D. student of Computer Science and, Jacek Fleks, also a GMBA student and a team leader for this project. We joined the competition with our project of a split ergonomic keyboard, a product designed to mainly: increase portability, typing speed, and customizability of typing – a task that is too familiar for us as students.", 
+      imageSrc:
+        "https://imgur.com/5MYgAiX",
+      //Project URL - Add Your Project Url Here
+      url: "https://docs.google.com/presentation/d/1n-Y5LcL0GV_-oBdnGrsxs7tspuXpcDYi/edit?usp=sharing&ouid=100287147892800313179&rtpof=true&sd=true",
     },
     {
-      title: "OTOP - Hsinchu Hakka culture", //Project Title - Add Your Project Title Here
+      title: "OTOP - he New Perspectives: Hsinchu Hakka culture",
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
+        "Culture diversity among aboriginal minorities in Northern Taiwan", 
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "Project Four", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "Project Five", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "Project Six", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+        "https://imgur.com/zJD46Ag",
+      url: "https://youtu.be/weSFFtk19w4",
     },
 
-    /*
-    If You Want To Add More Project just Copy and Paste This At The End
-    ,{
-        title: 'Project Five',
-        para: 'Something Amazing',
-        imageSrc: "",
-        url: ''
-    }
     */
   ],
 
@@ -113,13 +79,13 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "As the team leader, I plan to coordinate, facilitate, and perform all tasks required for the project. I am a highly motivated, entrepreneurial, and inventive person. I have four years’ experience in accounting and business consultancy, which gives me significant leverage and opportunity to strive.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    ".",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    ".",
   aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+    "https://imgur.com/N96BZ22",
 
   //   End About Section ---------------------
 
@@ -131,32 +97,14 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: cssIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: jsIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: reactIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Modern design, utilizing web tools",
     },
     {
       img: designIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Smart marketing and modern solutions",
     },
-    {
-      img: codeIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+
     },
   ],
 
@@ -166,7 +114,7 @@ export default {
 
   promotionHeading: "Heading",
   promotionPara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "Please contact me for further information.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
@@ -174,22 +122,12 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
-    {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
-    },
     {
       img: instagramIcon,
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/jacek.placki",
     },
   ],
 
   // End Contact Section ---------------
 }
 
-// Thanks for using this template, I would love to hear from you contact me at hello@chetanverma.com
