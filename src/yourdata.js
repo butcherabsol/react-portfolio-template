@@ -48,7 +48,7 @@ export default {
     {
       title: "Ergotype - Promotional Video",
       para:
-        "2022 NYCU Entreprenurship Competition application."
+        "2022 NYCU Entreprenurship Competition application.",
       imageSrc:
         "https://imgur.com/vErV543",
       //Project URL - Add Your Project Url Here
@@ -72,7 +72,6 @@ export default {
       url: "https://youtu.be/weSFFtk19w4",
     },
 
-    */
   ],
 
   // End Work Section -----------------------
@@ -103,8 +102,6 @@ export default {
       img: designIcon,
       para:
         "Smart marketing and modern solutions",
-    },
-
     },
   ],
 
